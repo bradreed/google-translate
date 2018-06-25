@@ -1,5 +1,5 @@
 {
-    "name": "bradreed/googleTranslate",
+    "name": "bradreed/google-translate",
     "description": "Free Laravel package for Paid Google Translate REST API",
     "keywords": ["laravel", "google", "translate", "php"],
     "license": "MIT",
