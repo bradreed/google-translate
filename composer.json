@@ -1,13 +1,13 @@
 {
-    "name": "ddctd143/google-translate",
+    "name": "bradreed/googleTranslate",
     "description": "Free Laravel package for Paid Google Translate REST API",
     "keywords": ["laravel", "google", "translate", "php"],
     "license": "MIT",
-    "homepage": "http://github.com/ddctd143/google-translate",
+    "homepage": "http://github.com/bradreed/googleTranslate",
     "authors": [
       {
-        "name": "Arturs Terehovics",
-        "email": "ddctd143@gmail.com"
+        "name": "Brad Reed",
+        "email": "breed@hanekedesign.com"
       }
     ],
     "require": {
